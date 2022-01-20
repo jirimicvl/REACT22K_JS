@@ -1,1 +1,1 @@
-alert("Welcome to learn JS");
+alert("I managed to get to GH");
